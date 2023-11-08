@@ -1,0 +1,2 @@
+# W25Q64FVSIG-1935
+64Mbyte SPI Memory
